@@ -1,5 +1,5 @@
 {
-  "name": "indico.io",
+  "name": "@gpittarelli/indico.io",
   "description": "A Node.js wrapper for the Indico’s API",
   "version": "0.10.6",
   "homepage": "https://github.com/IndicoDataSolutions/IndicoIo-node",
