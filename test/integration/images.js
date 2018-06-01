@@ -2,7 +2,7 @@ var indico = require('../..')
   , settings = require('../../lib/settings.js')
   , should = require('chai').should()
   , image = require('../../lib/image.js')
-  , lwip = require('lwip')
+  , lwip = null
   , fs = require('fs')
   , path = require('path');
   ;
